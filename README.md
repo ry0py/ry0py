@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+こんにちは
 <!--
 **ry0py/ry0py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
