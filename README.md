@@ -1,5 +1,7 @@
 ### Hi there 👋
 こんにちは
+## スキル一覧
+[![My Skills](https://skillicons.dev/icons?i=docker,py,linux,ubuntu,cpp,unity,github)](https://skillicons.dev)
 <!--
 **ry0py/ry0py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
