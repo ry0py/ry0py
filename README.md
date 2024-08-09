@@ -11,6 +11,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
 
+- その他
+  - ROS2
+  - maya
+
 <!--
 **ry0py/ry0py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
