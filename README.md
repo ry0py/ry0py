@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![typograssy](https://typograssy.deno.dev/api?text=こんにちは)](https://github.com/kawarimidoll/typograssy)
 
-東工大Maquinistaでロボコンを3年間やってました。
+東工大Maquinistaでロボコンの制御班を3年間、プロジェクトリーダーを1年やってました。
 ## スキル一覧
 - 言語
   
@@ -17,7 +17,12 @@
   - ROS2
   - maya
  
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ry0py&theme=dracula
+![github_summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ry0py&theme=dracula)
+
+<!--
+[![ry0py's GitHub stats](https://github-readme-stats.vercel.app/api?username=ry0py
+)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **ry0py/ry0py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
