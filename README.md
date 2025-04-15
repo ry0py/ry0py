@@ -5,7 +5,7 @@
 ## スキル一覧
 - 言語
   
-[![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,ruby,rails)](https://skillicons.dev)
 - ツール
 
 [![My Skills](https://skillicons.dev/icons?i=docker,jenkins,grafana,unity,github,qt)](https://skillicons.dev)
